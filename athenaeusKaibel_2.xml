@@ -17,6 +17,10 @@
                     <resp>Project Manager (University of Leipzig)</resp>
                 </respStmt>
                 <respStmt>
+                    <persName>Frederik Baumgardt</persName>
+                    <resp>Technical Manager (University of Leipzig)</resp>
+                </respStmt>
+                <respStmt>
                     <persName>Simona Stoyanova</persName>
                     <resp>Project Assistant (University of Leipzig)</resp>
                 </respStmt>
@@ -28,7 +32,7 @@
             
             <publicationStmt>
                 <authority>University of Leipzig</authority>
-                <idno type="filename">athenaeus_2.xml</idno>
+                <idno type="filename">athenaeusKaibel_2.xml</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
                 </availability>
@@ -72,6 +76,7 @@
         <profileDesc>
             <langUsage>
                 <language ident="la">Latin</language>
+                <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
         
